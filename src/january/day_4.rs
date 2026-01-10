@@ -1,5 +1,6 @@
 // https://leetcode.com/problems/four-divisors/description/?envType=daily-question&envId=2026-01-04
 // 1390. Four Divisors
+// Medium
 // Given an integer array nums, return the sum of divisors of the integers in that array that have exactly four divisors.
 // If there is no such integer in the array, return 0.
 pub struct Solution;

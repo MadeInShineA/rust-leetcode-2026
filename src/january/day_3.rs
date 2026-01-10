@@ -1,4 +1,6 @@
 // https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/description/?envType=daily-question&envId=2026-01-03
+// 1411. Number of Ways to Paint N × 3 Grid
+// Hard
 // You have a grid of size n x 3 and you want to paint each cell of the grid with exactly one of the three colors:
 // Red, Yellow, or Green while making sure that no two adjacent cells have the same color
 // (i.e., no two cells that share vertical or horizontal sides have the same color).

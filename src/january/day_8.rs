@@ -1,5 +1,6 @@
 // https://leetcode.com/problems/max-dot-product-of-two-subsequences/description/?envType=daily-question&envId=2026-01-08
 // 1458. Max Dot Product of Two Subsequences
+// Hard
 // Given two arrays nums1 and nums2.
 // Return the maximum dot product between non-empty subsequences of nums1 and nums2 with the same length.
 // A subsequence of a array is a new array which is formed from the original array by deleting some
