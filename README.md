@@ -1,4 +1,4 @@
-# LeetCode Challenges - 2026
+# LeetCode Challenges - 2026 (made with Rust)
 
 ![Rust](https://img.shields.io/badge/rust-2024.0-orange.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -79,7 +79,7 @@ src/
 
 ## Adding New Days
 
-1. Create a new file `src/{month}/day_{day}.rs` with the following format:
+Create a new file `src/{month}/day_{day}.rs` with the following format:
 
 ```rust
 // https://leetcode.com/problems/problem-name
@@ -90,10 +90,10 @@ src/
 Problem completion
 ```
 
-1. Add module to `src/{month}/mod.rs`:
+Add module to `src/{month}/mod.rs`:
 
 ```rust
 pub mod day_{day};
 ```
 
-1. Run `./update_progress.sh` to update the README
+Run `./update_progress.sh` to update the README
