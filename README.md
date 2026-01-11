@@ -5,20 +5,18 @@
 
 ## Progress
 
-Updated: 2026-01-10
+Updated: 2026-01-11
 
 ### Monthly Difficulty Breakdown
-
 | Month | Easy | Medium | Hard | Total |
 |-------|------|--------|------|-------|
-| January | 2 | 6 | 2 | 10 |
-| **Total** | **2** | **6** | **2** | **10** |
+| January | 2 | 6 | 3 | 11 |
+| **Total** | **2** | **6** | **3** | **11** |
 
 ### January
-
  ```
-Progress: ██████░░░░░░░░░░░░░░ 10/31 days (32%)
-Remaining: 21 problems
+Progress: ███████░░░░░░░░░░░░░ 11/31 days (35%)
+Remaining: 20 problems
 ```
 
 | Day | Problem | Difficulty | Status |
@@ -33,7 +31,7 @@ Remaining: 21 problems
 | 8 | [1458. Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/description/?envType=daily-question&envId=2026-01-08) | Hard | ✅ |
 | 9 | [865. Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/description/?envType=daily-question&envId=2026-01-09) | Medium | ✅ |
 | 10 | [712. Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/?envType=daily-question&envId=2026-01-10) | Medium | ✅ |
-| 11 | TBD | - | ⬜ |
+| 11 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/?envType=daily-question&envId=2026-01-11) | Hard | ✅ |
 | 12 | TBD | - | ⬜ |
 | 13 | TBD | - | ⬜ |
 | 14 | TBD | - | ⬜ |
@@ -54,6 +52,7 @@ Remaining: 21 problems
 | 29 | TBD | - | ⬜ |
 | 30 | TBD | - | ⬜ |
 | 31 | TBD | - | ⬜ |
+
 
 ## Running Tests
 
