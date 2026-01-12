@@ -5,18 +5,18 @@
 
 ## Progress
 
-Updated: 2026-01-11
+Updated: 2026-01-12
 
 ### Monthly Difficulty Breakdown
 | Month | Easy | Medium | Hard | Total |
 |-------|------|--------|------|-------|
-| January | 2 | 6 | 3 | 11 |
-| **Total** | **2** | **6** | **3** | **11** |
+| January | 3 | 6 | 3 | 12 |
+| **Total** | **3** | **6** | **3** | **12** |
 
 ### January
  ```
-Progress: ███████░░░░░░░░░░░░░ 11/31 days (35%)
-Remaining: 20 problems
+Progress: ███████░░░░░░░░░░░░░ 12/31 days (38%)
+Remaining: 19 problems
 ```
 
 | Day | Problem | Difficulty | Status |
@@ -32,7 +32,7 @@ Remaining: 20 problems
 | 9 | [865. Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/description/?envType=daily-question&envId=2026-01-09) | Medium | ✅ |
 | 10 | [712. Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/?envType=daily-question&envId=2026-01-10) | Medium | ✅ |
 | 11 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/?envType=daily-question&envId=2026-01-11) | Hard | ✅ |
-| 12 | TBD | - | ⬜ |
+| 12 | [1266. Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/description/?envType=daily-question&envId=2026-01-12) | Easy | ✅ |
 | 13 | TBD | - | ⬜ |
 | 14 | TBD | - | ⬜ |
 | 15 | TBD | - | ⬜ |
