@@ -5,18 +5,18 @@
 
 ## Progress
 
-Updated: 2026-01-12
+Updated: 2026-01-13
 
 ### Monthly Difficulty Breakdown
 | Month | Easy | Medium | Hard | Total |
 |-------|------|--------|------|-------|
-| January | 3 | 6 | 3 | 12 |
-| **Total** | **3** | **6** | **3** | **12** |
+| January | 3 | 7 | 3 | 13 |
+| **Total** | **3** | **7** | **3** | **13** |
 
 ### January
  ```
-Progress: ███████░░░░░░░░░░░░░ 12/31 days (38%)
-Remaining: 19 problems
+Progress: ████████░░░░░░░░░░░░ 13/31 days (41%)
+Remaining: 18 problems
 ```
 
 | Day | Problem | Difficulty | Status |
@@ -33,7 +33,7 @@ Remaining: 19 problems
 | 10 | [712. Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/?envType=daily-question&envId=2026-01-10) | Medium | ✅ |
 | 11 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/?envType=daily-question&envId=2026-01-11) | Hard | ✅ |
 | 12 | [1266. Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/description/?envType=daily-question&envId=2026-01-12) | Easy | ✅ |
-| 13 | TBD | - | ⬜ |
+| 13 | [3453. Separate Squares I](https://leetcode.com/problems/separate-squares-i/description/?envType=daily-question&envId=2026-01-13) | Medium | ✅ |
 | 14 | TBD | - | ⬜ |
 | 15 | TBD | - | ⬜ |
 | 16 | TBD | - | ⬜ |
