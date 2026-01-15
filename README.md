@@ -5,18 +5,18 @@
 
 ## Progress
 
-Updated: 2026-01-14
+Updated: 2026-01-15
 
 ### Monthly Difficulty Breakdown
 | Month | Easy | Medium | Hard | Total |
 |-------|------|--------|------|-------|
-| January | 3 | 7 | 4 | 14 |
-| **Total** | **3** | **7** | **4** | **14** |
+| January | 3 | 8 | 4 | 15 |
+| **Total** | **3** | **8** | **4** | **15** |
 
 ### January
  ```
-Progress: █████████░░░░░░░░░░░ 14/31 days (45%)
-Remaining: 17 problems
+Progress: █████████░░░░░░░░░░░ 15/31 days (48%)
+Remaining: 16 problems
 ```
 
 | Day | Problem | Difficulty | Status |
@@ -35,7 +35,7 @@ Remaining: 17 problems
 | 12 | [1266. Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/description/?envType=daily-question&envId=2026-01-12) | Easy | ✅ |
 | 13 | [3453. Separate Squares I](https://leetcode.com/problems/separate-squares-i/description/?envType=daily-question&envId=2026-01-13) | Medium | ✅ |
 | 14 | [3454. Separate Squares II](https://leetcode.com/problems/separate-squares-ii/description/?envType=daily-question&envId=2026-01-14) | Hard | ✅ |
-| 15 | TBD | - | ⬜ |
+| 15 | [2943. Maximize Area of Square Hole in Grid](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/description/?envType=daily-question&envId=2026-01-15) | Medium | ✅ |
 | 16 | TBD | - | ⬜ |
 | 17 | TBD | - | ⬜ |
 | 18 | TBD | - | ⬜ |
