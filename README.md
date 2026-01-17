@@ -5,18 +5,18 @@
 
 ## Progress
 
-Updated: 2026-01-16
+Updated: 2026-01-17
 
 ### Monthly Difficulty Breakdown
 | Month | Easy | Medium | Hard | Total |
 |-------|------|--------|------|-------|
-| January | 3 | 9 | 4 | 16 |
-| **Total** | **3** | **9** | **4** | **16** |
+| January | 3 | 10 | 4 | 17 |
+| **Total** | **3** | **10** | **4** | **17** |
 
 ### January
  ```
-Progress: ██████████░░░░░░░░░░ 16/31 days (51%)
-Remaining: 15 problems
+Progress: ██████████░░░░░░░░░░ 17/31 days (54%)
+Remaining: 14 problems
 ```
 
 | Day | Problem | Difficulty | Status |
@@ -37,7 +37,7 @@ Remaining: 15 problems
 | 14 | [3454. Separate Squares II](https://leetcode.com/problems/separate-squares-ii/description/?envType=daily-question&envId=2026-01-14) | Hard | ✅ |
 | 15 | [2943. Maximize Area of Square Hole in Grid](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/description/?envType=daily-question&envId=2026-01-15) | Medium | ✅ |
 | 16 | [2975. Maximum Square Area by Removing Fences From a Field](https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/description/?envType=daily-question&envId=2026-01-16) | Medium | ✅ |
-| 17 | TBD | - | ⬜ |
+| 17 | [3047. Find the Largest Area of Square Inside Two Rectangles](https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/description/?envType=daily-question&envId=2026-01-17) | Medium | ✅ |
 | 18 | TBD | - | ⬜ |
 | 19 | TBD | - | ⬜ |
 | 20 | TBD | - | ⬜ |
