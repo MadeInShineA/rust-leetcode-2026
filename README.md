@@ -5,18 +5,18 @@
 
 ## Progress
 
-Updated: 2026-01-17
+Updated: 2026-01-19
 
 ### Monthly Difficulty Breakdown
 | Month | Easy | Medium | Hard | Total |
 |-------|------|--------|------|-------|
-| January | 3 | 10 | 4 | 17 |
-| **Total** | **3** | **10** | **4** | **17** |
+| January | 3 | 11 | 4 | 18 |
+| **Total** | **3** | **11** | **4** | **18** |
 
 ### January
  ```
-Progress: ██████████░░░░░░░░░░ 17/31 days (54%)
-Remaining: 14 problems
+Progress: ███████████░░░░░░░░░ 18/31 days (58%)
+Remaining: 13 problems
 ```
 
 | Day | Problem | Difficulty | Status |
@@ -38,7 +38,7 @@ Remaining: 14 problems
 | 15 | [2943. Maximize Area of Square Hole in Grid](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/description/?envType=daily-question&envId=2026-01-15) | Medium | ✅ |
 | 16 | [2975. Maximum Square Area by Removing Fences From a Field](https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/description/?envType=daily-question&envId=2026-01-16) | Medium | ✅ |
 | 17 | [3047. Find the Largest Area of Square Inside Two Rectangles](https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/description/?envType=daily-question&envId=2026-01-17) | Medium | ✅ |
-| 18 | TBD | - | ⬜ |
+| 18 | [1895. Largest Magic Square](https://leetcode.com/problems/largest-magic-square/description/?envType=daily-question&envId=2026-01-18) | Medium | ✅ |
 | 19 | TBD | - | ⬜ |
 | 20 | TBD | - | ⬜ |
 | 21 | TBD | - | ⬜ |
