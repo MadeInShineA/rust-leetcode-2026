@@ -43,7 +43,6 @@ impl Solution {
             if rl_diagonal_sum != target_sum {
                 return false;
             }
-            dbg!(square);
             true
         }
 
