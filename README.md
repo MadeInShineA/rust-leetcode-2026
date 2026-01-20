@@ -5,18 +5,18 @@
 
 ## Progress
 
-Updated: 2026-01-19
+Updated: 2026-01-20
 
 ### Monthly Difficulty Breakdown
 | Month | Easy | Medium | Hard | Total |
 |-------|------|--------|------|-------|
-| January | 3 | 12 | 4 | 19 |
-| **Total** | **3** | **12** | **4** | **19** |
+| January | 4 | 12 | 4 | 20 |
+| **Total** | **4** | **12** | **4** | **20** |
 
 ### January
  ```
-Progress: ████████████░░░░░░░░ 19/31 days (61%)
-Remaining: 12 problems
+Progress: ████████████░░░░░░░░ 20/31 days (64%)
+Remaining: 11 problems
 ```
 
 | Day | Problem | Difficulty | Status |
@@ -40,7 +40,7 @@ Remaining: 12 problems
 | 17 | [3047. Find the Largest Area of Square Inside Two Rectangles](https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/description/?envType=daily-question&envId=2026-01-17) | Medium | ✅ |
 | 18 | [1895. Largest Magic Square](https://leetcode.com/problems/largest-magic-square/description/?envType=daily-question&envId=2026-01-18) | Medium | ✅ |
 | 19 | [1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/description/?envType=daily-question&envId=2026-01-19) | Medium | ✅ |
-| 20 | TBD | - | ⬜ |
+| 20 | [3314. Construct the Minimum Bitwise Array I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/description/?envType=daily-question&envId=2026-01-20) | Easy | ✅ |
 | 21 | TBD | - | ⬜ |
 | 22 | TBD | - | ⬜ |
 | 23 | TBD | - | ⬜ |
