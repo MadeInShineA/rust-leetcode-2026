@@ -5,18 +5,18 @@
 
 ## Progress
 
-Updated: 2026-01-20
+Updated: 2026-01-21
 
 ### Monthly Difficulty Breakdown
 | Month | Easy | Medium | Hard | Total |
 |-------|------|--------|------|-------|
-| January | 4 | 12 | 4 | 20 |
-| **Total** | **4** | **12** | **4** | **20** |
+| January | 4 | 13 | 4 | 21 |
+| **Total** | **4** | **13** | **4** | **21** |
 
 ### January
  ```
-Progress: ████████████░░░░░░░░ 20/31 days (64%)
-Remaining: 11 problems
+Progress: █████████████░░░░░░░ 21/31 days (67%)
+Remaining: 10 problems
 ```
 
 | Day | Problem | Difficulty | Status |
@@ -41,7 +41,7 @@ Remaining: 11 problems
 | 18 | [1895. Largest Magic Square](https://leetcode.com/problems/largest-magic-square/description/?envType=daily-question&envId=2026-01-18) | Medium | ✅ |
 | 19 | [1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/description/?envType=daily-question&envId=2026-01-19) | Medium | ✅ |
 | 20 | [3314. Construct the Minimum Bitwise Array I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/description/?envType=daily-question&envId=2026-01-20) | Easy | ✅ |
-| 21 | TBD | - | ⬜ |
+| 21 | [3314. Construct the Minimum Bitwise Array II](https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/description/?envType=daily-question&envId=2026-01-21) | Medium | ✅ |
 | 22 | TBD | - | ⬜ |
 | 23 | TBD | - | ⬜ |
 | 24 | TBD | - | ⬜ |
