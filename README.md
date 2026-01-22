@@ -5,18 +5,18 @@
 
 ## Progress
 
-Updated: 2026-01-21
+Updated: 2026-01-22
 
 ### Monthly Difficulty Breakdown
 | Month | Easy | Medium | Hard | Total |
 |-------|------|--------|------|-------|
-| January | 4 | 13 | 4 | 21 |
-| **Total** | **4** | **13** | **4** | **21** |
+| January | 5 | 13 | 4 | 22 |
+| **Total** | **5** | **13** | **4** | **22** |
 
 ### January
  ```
-Progress: █████████████░░░░░░░ 21/31 days (67%)
-Remaining: 10 problems
+Progress: ██████████████░░░░░░ 22/31 days (70%)
+Remaining: 9 problems
 ```
 
 | Day | Problem | Difficulty | Status |
@@ -42,7 +42,7 @@ Remaining: 10 problems
 | 19 | [1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/description/?envType=daily-question&envId=2026-01-19) | Medium | ✅ |
 | 20 | [3314. Construct the Minimum Bitwise Array I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/description/?envType=daily-question&envId=2026-01-20) | Easy | ✅ |
 | 21 | [3314. Construct the Minimum Bitwise Array II](https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/description/?envType=daily-question&envId=2026-01-21) | Medium | ✅ |
-| 22 | TBD | - | ⬜ |
+| 22 | [3507. Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/?envType=daily-question&envId=2026-01-22) | Easy | ✅ |
 | 23 | TBD | - | ⬜ |
 | 24 | TBD | - | ⬜ |
 | 25 | TBD | - | ⬜ |
