@@ -11,7 +11,7 @@ pub struct Solution;
 
 impl Solution {
     pub fn minimum_pair_removal(mut nums: Vec<i32>) -> i32 {
-        fn replace_first_occurence_of_pair(pair: (i32, i32), nums_array: Vec<i32>) -> Vec<i32> {
+        fn replace_first_occurence_of_pair(pair: (i32, i32), nums_array: &[i32]) -> Vec<i32> {
             let mut result: Vec<i32> = Vec::new();
 
             for i in 0..(nums_array.len() - 1) {
@@ -26,7 +26,7 @@ impl Solution {
                 }
             }
 
-            nums_array
+            nums_array.to_owned()
         }
         let mut counter: i32 = 0;
 
@@ -43,7 +43,7 @@ impl Solution {
                     minimum_sum_pair = (element_1, element_2);
                 }
             }
-            nums = replace_first_occurence_of_pair(minimum_sum_pair, nums);
+            nums = replace_first_occurence_of_pair(minimum_sum_pair, &nums);
             counter += 1;
         }
         counter
