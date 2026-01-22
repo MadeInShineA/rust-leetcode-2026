@@ -52,8 +52,7 @@ impl Solution {
                 }
 
                 let result_binary_string: String = result_binary_string.chars().rev().collect();
-
-                let result_i32 = i32::from_str_radix(&result_binary_string, 2).unwrap();
+                let result_i32: i32 = i32::from_str_radix(&result_binary_string, 2).unwrap();
                 answer.push(result_i32);
             }
         }
@@ -78,3 +77,4 @@ mod test {
         )
     }
 }
+
