@@ -5,18 +5,18 @@
 
 ## Progress
 
-Updated: 2026-01-23
+Updated: 2026-01-24
 
 ### Monthly Difficulty Breakdown
 | Month | Easy | Medium | Hard | Total |
 |-------|------|--------|------|-------|
-| January | 5 | 13 | 5 | 23 |
-| **Total** | **5** | **13** | **5** | **23** |
+| January | 5 | 14 | 5 | 24 |
+| **Total** | **5** | **14** | **5** | **24** |
 
 ### January
  ```
-Progress: ██████████████░░░░░░ 23/31 days (74%)
-Remaining: 8 problems
+Progress: ███████████████░░░░░ 24/31 days (77%)
+Remaining: 7 problems
 ```
 
 | Day | Problem | Difficulty | Status |
@@ -44,7 +44,7 @@ Remaining: 8 problems
 | 21 | [3314. Construct the Minimum Bitwise Array II](https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/description/?envType=daily-question&envId=2026-01-21) | Medium | ✅ |
 | 22 | [3507. Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/?envType=daily-question&envId=2026-01-22) | Easy | ✅ |
 | 23 | [3510. Minimum Pair Removal to Sort Array II](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/?envType=daily-question&envId=2026-01-23) | Hard | ✅ |
-| 24 | TBD | - | ⬜ |
+| 24 | [1877. Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/description/?envType=daily-question&envId=2026-01-24) | Medium | ✅ |
 | 25 | TBD | - | ⬜ |
 | 26 | TBD | - | ⬜ |
 | 27 | TBD | - | ⬜ |
