@@ -10,10 +10,10 @@
 
 pub struct Solution;
 
-const EPSILON: f64 = 1e-5;
+pub const EPSILON: f64 = 1e-5;
 
 impl Solution {
-    fn approx_equal(a: f64, b: f64, epsilon: f64) -> bool {
+    pub fn approx_equal(a: f64, b: f64, epsilon: f64) -> bool {
         (a - b).abs() <= epsilon
     }
 

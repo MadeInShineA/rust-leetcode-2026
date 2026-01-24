@@ -7,14 +7,14 @@
 // Note that other bars are fixed and cannot be removed.
 // Return an integer denoting the maximum area of a square-shaped hole in the grid, after removing some bars (possibly none).
 
-use std::{collections::HashMap, ops::RangeInclusive};
+// use std::{collections::HashMap, ops::RangeInclusive};
 
 pub struct Solution;
 
 impl Solution {
     pub fn maximize_square_hole_area(
-        n: i32,
-        m: i32,
+        _n: i32,
+        _m: i32,
         mut h_bars: Vec<i32>,
         mut v_bars: Vec<i32>,
     ) -> i32 {
