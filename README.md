@@ -5,18 +5,18 @@
 
 ## Progress
 
-Updated: 2026-01-24
+Updated: 2026-01-25
 
 ### Monthly Difficulty Breakdown
 | Month | Easy | Medium | Hard | Total |
 |-------|------|--------|------|-------|
-| January | 5 | 14 | 5 | 24 |
-| **Total** | **5** | **14** | **5** | **24** |
+| January | 6 | 14 | 5 | 25 |
+| **Total** | **6** | **14** | **5** | **25** |
 
 ### January
  ```
-Progress: ███████████████░░░░░ 24/31 days (77%)
-Remaining: 7 problems
+Progress: ████████████████░░░░ 25/31 days (80%)
+Remaining: 6 problems
 ```
 
 | Day | Problem | Difficulty | Status |
@@ -45,7 +45,7 @@ Remaining: 7 problems
 | 22 | [3507. Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/?envType=daily-question&envId=2026-01-22) | Easy | ✅ |
 | 23 | [3510. Minimum Pair Removal to Sort Array II](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/?envType=daily-question&envId=2026-01-23) | Hard | ✅ |
 | 24 | [1877. Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/description/?envType=daily-question&envId=2026-01-24) | Medium | ✅ |
-| 25 | TBD | - | ⬜ |
+| 25 | [1984. Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/description/?envType=daily-question&envId=2026-01-25) | Easy | ✅ |
 | 26 | TBD | - | ⬜ |
 | 27 | TBD | - | ⬜ |
 | 28 | TBD | - | ⬜ |
