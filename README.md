@@ -5,18 +5,18 @@
 
 ## Progress
 
-Updated: 2026-01-25
+Updated: 2026-01-26
 
 ### Monthly Difficulty Breakdown
 | Month | Easy | Medium | Hard | Total |
 |-------|------|--------|------|-------|
-| January | 6 | 14 | 5 | 25 |
-| **Total** | **6** | **14** | **5** | **25** |
+| January | 7 | 14 | 5 | 26 |
+| **Total** | **7** | **14** | **5** | **26** |
 
 ### January
  ```
-Progress: ████████████████░░░░ 25/31 days (80%)
-Remaining: 6 problems
+Progress: ████████████████░░░░ 26/31 days (83%)
+Remaining: 5 problems
 ```
 
 | Day | Problem | Difficulty | Status |
@@ -46,7 +46,7 @@ Remaining: 6 problems
 | 23 | [3510. Minimum Pair Removal to Sort Array II](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/?envType=daily-question&envId=2026-01-23) | Hard | ✅ |
 | 24 | [1877. Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/description/?envType=daily-question&envId=2026-01-24) | Medium | ✅ |
 | 25 | [1984. Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/description/?envType=daily-question&envId=2026-01-25) | Easy | ✅ |
-| 26 | TBD | - | ⬜ |
+| 26 | [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/description/?envType=daily-question&envId=2026-01-26) | Easy | ✅ |
 | 27 | TBD | - | ⬜ |
 | 28 | TBD | - | ⬜ |
 | 29 | TBD | - | ⬜ |
