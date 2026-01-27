@@ -5,18 +5,18 @@
 
 ## Progress
 
-Updated: 2026-01-26
+Updated: 2026-01-27
 
 ### Monthly Difficulty Breakdown
 | Month | Easy | Medium | Hard | Total |
 |-------|------|--------|------|-------|
-| January | 7 | 14 | 5 | 26 |
-| **Total** | **7** | **14** | **5** | **26** |
+| January | 7 | 15 | 5 | 27 |
+| **Total** | **7** | **15** | **5** | **27** |
 
 ### January
  ```
-Progress: ████████████████░░░░ 26/31 days (83%)
-Remaining: 5 problems
+Progress: █████████████████░░░ 27/31 days (87%)
+Remaining: 4 problems
 ```
 
 | Day | Problem | Difficulty | Status |
@@ -47,7 +47,7 @@ Remaining: 5 problems
 | 24 | [1877. Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/description/?envType=daily-question&envId=2026-01-24) | Medium | ✅ |
 | 25 | [1984. Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/description/?envType=daily-question&envId=2026-01-25) | Easy | ✅ |
 | 26 | [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/description/?envType=daily-question&envId=2026-01-26) | Easy | ✅ |
-| 27 | TBD | - | ⬜ |
+| 27 | [3650. Minimum Cost Path with Edge Reversals](https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/description/?envType=daily-question&envId=2026-01-27) | Medium | ✅ |
 | 28 | TBD | - | ⬜ |
 | 29 | TBD | - | ⬜ |
 | 30 | TBD | - | ⬜ |
