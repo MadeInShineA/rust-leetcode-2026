@@ -5,18 +5,18 @@
 
 ## Progress
 
-Updated: 2026-01-27
+Updated: 2026-01-28
 
 ### Monthly Difficulty Breakdown
 | Month | Easy | Medium | Hard | Total |
 |-------|------|--------|------|-------|
-| January | 7 | 15 | 5 | 27 |
-| **Total** | **7** | **15** | **5** | **27** |
+| January | 7 | 15 | 6 | 28 |
+| **Total** | **7** | **15** | **6** | **28** |
 
 ### January
  ```
-Progress: █████████████████░░░ 27/31 days (87%)
-Remaining: 4 problems
+Progress: ██████████████████░░ 28/31 days (90%)
+Remaining: 3 problems
 ```
 
 | Day | Problem | Difficulty | Status |
@@ -48,7 +48,7 @@ Remaining: 4 problems
 | 25 | [1984. Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/description/?envType=daily-question&envId=2026-01-25) | Easy | ✅ |
 | 26 | [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/description/?envType=daily-question&envId=2026-01-26) | Easy | ✅ |
 | 27 | [3650. Minimum Cost Path with Edge Reversals](https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/description/?envType=daily-question&envId=2026-01-27) | Medium | ✅ |
-| 28 | TBD | - | ⬜ |
+| 28 | [3651. Minimum Cost Path with Teleportations](https://leetcode.com/problems/minimum-cost-path-with-teleportations/description/?envType=daily-question&envId=2026-01-28) | Hard | ✅ |
 | 29 | TBD | - | ⬜ |
 | 30 | TBD | - | ⬜ |
 | 31 | TBD | - | ⬜ |
