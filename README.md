@@ -10,13 +10,13 @@ Updated: 2026-01-31
 ### Monthly Difficulty Breakdown
 | Month | Easy | Medium | Hard | Total |
 |-------|------|--------|------|-------|
-| January | 8 | 15 | 7 | 30 |
-| **Total** | **8** | **15** | **7** | **30** |
+| January | 8 | 16 | 7 | 31 |
+| **Total** | **8** | **16** | **7** | **31** |
 
 ### January
  ```
-Progress: ███████████████████░ 30/31 days (96%)
-Remaining: 1 problems
+Progress: ████████████████████ 31/31 days (100%)
+Remaining: 0 problems
 ```
 
 | Day | Problem | Difficulty | Status |
@@ -49,7 +49,7 @@ Remaining: 1 problems
 | 26 | [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/description/?envType=daily-question&envId=2026-01-26) | Easy | ✅ |
 | 27 | [3650. Minimum Cost Path with Edge Reversals](https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/description/?envType=daily-question&envId=2026-01-27) | Medium | ✅ |
 | 28 | [3651. Minimum Cost Path with Teleportations](https://leetcode.com/problems/minimum-cost-path-with-teleportations/description/?envType=daily-question&envId=2026-01-28) | Hard | ✅ |
-| 29 | TBD | - | ❌ |
+| 29 | [2976. Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/description/?envType=daily-question&envId=2026-01-29) | Medium | ✅ |
 | 30 | [2977. Minimum Cost to Convert String II](https://leetcode.com/problems/minimum-cost-to-convert-string-ii/description/?envType=daily-question&envId=2026-01-30) | Hard | ✅ |
 | 31 | [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/?envType=daily-question&envId=2026-01-31) | Easy | ✅ |
 
